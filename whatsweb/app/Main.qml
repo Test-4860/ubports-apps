@@ -1,9 +1,9 @@
 import QtQuick 2.9
 import Ubuntu.Components 1.3
-import QtQuick.Window 2.2
-import Morph.Web 0.1
+import QtQuick.Window 2.15
+import Morph.Web 1.0.1
 import "UCSComponents"
-import QtWebEngine 1.7
+import QtWebEngine 1.10
 import Qt.labs.settings 1.0
 import QtSystemInfo 5.5
 import Ubuntu.Components.ListItems 1.3 as ListItemm
